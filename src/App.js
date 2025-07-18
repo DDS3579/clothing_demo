@@ -1106,7 +1106,7 @@ const App = () => {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/clothing_demo'>
       <div className="App">
         <Header 
           cartItems={cartItems}
