@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clothing_demo/static/css/main.716ca126.css",
+    "main.js": "/clothing_demo/static/js/main.23d1b334.js",
+    "index.html": "/clothing_demo/index.html",
+    "main.716ca126.css.map": "/clothing_demo/static/css/main.716ca126.css.map",
+    "main.23d1b334.js.map": "/clothing_demo/static/js/main.23d1b334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716ca126.css",
+    "static/js/main.23d1b334.js"
+  ]
+}
